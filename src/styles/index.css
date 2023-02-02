@@ -12,5 +12,15 @@ background: rgb(252, 212, 174);
 margin-inline: 200px;
 }
 
+.hide {
+    visibility: hidden;
+}
+.show {
+    visibility: visible;
+}
+
+
+
+
 
 
